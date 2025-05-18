@@ -1,3 +1,3 @@
-@echo off 
+
 def helper_function(): 
     return "Helper function" 
