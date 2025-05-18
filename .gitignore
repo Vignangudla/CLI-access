@@ -1,0 +1,3 @@
+@echo off 
+__pycache__/ 
+*.pyc 
